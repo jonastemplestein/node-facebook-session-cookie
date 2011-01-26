@@ -1,6 +1,6 @@
 {
     "name": "facebook-session-cookie",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "nodejs/connect middleware that eats facebook cookies that eats and validates facebook cookies from client FB.login() calls and makes the session available as req.fb_session",
     "author": {
         "name": "Jonas Huckestein",
