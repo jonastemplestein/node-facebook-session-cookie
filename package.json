@@ -1,6 +1,6 @@
 {
     "name": "facebook-session-cookie",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "nodejs/connect middleware that eats facebook cookies that eats and validates facebook cookies from client FB.login() calls and makes the session available as req.fb_session",
     "author": {
         "name": "Jonas Huckestein",
@@ -11,9 +11,9 @@
         {
             "type": "git",
             "url": "http://github.com/jonashuckestein/node-facebook-session-cookie.git",
-            "main": "./facebook-session-cookie"
         }
     ],
+    "main": "./facebook-session-cookie",
     "dependencies": {
         "coffee-script": ">= 1.0.0"
     }
