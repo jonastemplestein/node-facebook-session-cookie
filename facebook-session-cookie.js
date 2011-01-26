@@ -1,2 +1,2 @@
 require('coffee-script');
-module.exports = require('./facebook-session-cookie.coffee');
+module.exports = require('./_facebook-session-cookie.coffee');
