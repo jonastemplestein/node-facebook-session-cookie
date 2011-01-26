@@ -11,7 +11,7 @@
         {
             "type": "git",
             "url": "http://github.com/jonashuckestein/node-facebook-session-cookie.git",
-            "main": "./index.js"
+            "main": "./facebook-session-cookie"
         }
     ],
     "dependencies": {
