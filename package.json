@@ -10,7 +10,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "http://github.com/jonashuckestein/node-facebook-session-cookie.git",
+            "url": "http://github.com/jonashuckestein/node-facebook-session-cookie.git"
         }
     ],
     "main": "./facebook-session-cookie",
